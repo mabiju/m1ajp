@@ -1,4 +1,4 @@
-package I_Interface;
+package i_interface;
 
 interface ICollege {
     public void study();

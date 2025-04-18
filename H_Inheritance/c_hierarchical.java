@@ -1,4 +1,4 @@
-package H_Inheritance;
+package h_inheritance;
 
 class Vehicle {
     void accelerate() {

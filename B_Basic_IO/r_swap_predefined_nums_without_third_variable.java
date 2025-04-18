@@ -1,4 +1,4 @@
-package B_Basic_IO;
+package b_basic_io;
 
 public class r_swap_predefined_nums_without_third_variable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package C_Basic_IO_Class_n_Object;
+package c_basic_io_class_n_object;
 
 public class b_add_two_nums {
     int a = 90, b = 78;

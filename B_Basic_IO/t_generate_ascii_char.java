@@ -1,4 +1,4 @@
-package B_Basic_IO;
+package b_basic_io;
 
 public class t_generate_ascii_char {
     public static void main(String[] args) {

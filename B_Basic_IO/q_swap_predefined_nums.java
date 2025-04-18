@@ -1,4 +1,4 @@
-package B_Basic_IO;
+package b_basic_io;
 
 public class q_swap_predefined_nums {
     public static void main(String[] args) {

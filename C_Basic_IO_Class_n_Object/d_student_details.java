@@ -1,4 +1,4 @@
-package C_Basic_IO_Class_n_Object;
+package c_basic_io_class_n_object;
 
 class Stud {
     int roll, age;

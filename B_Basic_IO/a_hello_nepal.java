@@ -1,4 +1,4 @@
-package B_Basic_IO;
+package b_basic_io;
 
 public class a_hello_nepal {
     public static void main(String[] args) {

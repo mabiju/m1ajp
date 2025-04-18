@@ -1,4 +1,4 @@
-package B_Basic_IO;
+package b_basic_io;
 import java.util.Scanner;
 
 public class h_area_of_square {
