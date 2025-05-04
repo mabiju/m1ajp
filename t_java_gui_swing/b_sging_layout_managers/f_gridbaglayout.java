@@ -1,4 +1,4 @@
-package t_java_gui_swing.b_swing_layout_managers;
+package zd_java_swing.b_swing_layout_managers;
 
 import java.awt.*;
 
