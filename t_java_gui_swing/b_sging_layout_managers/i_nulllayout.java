@@ -1,4 +1,4 @@
-package zd_java_swing.b_swing_layout_managers;
+package t_java_gui_swing.b_sging_layout_managers;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
