@@ -1,0 +1,18 @@
+For database connection
+------------------------
+1. create database `db_jdbc`;
+
+
+For data insertion
+------------------
+2. create table `db_jdbc`.`users` (
+    `id` varchar(45) not null,
+    `pwd` varchar(45) not null,
+    `fullname` varchar(45) not null,
+    `email` varchar(45) not null
+);
+
+
+
+Please follow the instructions as mentioned in given pictures.... !!!
+"iii_mysql_connector_library" folder contains the mysql connector.
